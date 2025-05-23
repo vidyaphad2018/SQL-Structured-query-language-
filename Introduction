@@ -31,4 +31,5 @@
   Different DBMS tools (like MySQL, SQL Server, etc.) provide an interface and APIs that users can use to interact with the database. 
   These tools provide a user-friendly way to write and execute SQL queries, but internally, they rely on their respective SQL Engines to process these commands.
 
-For example, MySQL uses its own SQL Engine to parse, optimize, and execute queries, while SQL Server has a different SQL Engine for the same task. These engines ensure that SQL queries are executed in a way that respects the underlying database structure and the specific DBMS’s optimizations.
+For example, MySQL uses its own SQL Engine to parse, optimize, and execute queries, while SQL Server has a different SQL Engine for the same task. 
+These engines ensure that SQL queries are executed in a way that respects the underlying database structure and the specific DBMS’s optimizations.
